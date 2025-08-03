@@ -17,9 +17,6 @@ This app was developed as part of a **Flutter Developer Assessment Task** assign
 ---
 
 ## 🧠 Why This Project (Boot Reason)
-
-> "After working in a service-based company (Accedom IT Pvt. Ltd.), I wanted to build a **complete, production-grade Flutter application** from scratch — with real app features, clean architecture, and scalable state management — to demonstrate my hands-on experience and professional growth as a Flutter Developer."
-
 This app became the perfect **learning + showcasing project** for:
 
 - Exploring BLoC pattern for large-scale apps
